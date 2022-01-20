@@ -1,2 +1,2 @@
-# Anime-Recomender-System
-Web application to recommend anime to users
+# Recipe-Recomender-System
+Web application to recommend recipes to users
